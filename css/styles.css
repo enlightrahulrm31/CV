@@ -1,0 +1,19 @@
+body{
+  background-color:  #E8F6EF;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width:7px;
+  width: 10%
+}
+h3{
+  color: #6E85B2;
+}
+h1{
+  color: #512D6D;
+}
+img{
+  border-radius: 50%;
+}
